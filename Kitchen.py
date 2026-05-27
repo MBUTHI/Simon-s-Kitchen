@@ -40,7 +40,7 @@ if cart:
     print("You bought: " + ", ".join(cart))
 else:
     print("You didn’t buy anything.")
-print("Final balance: $" + str(balance
+print("Final balance: $" + str(balance))
 
 
 print("Program Is Workings")
